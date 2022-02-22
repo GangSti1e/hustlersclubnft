@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x749346bde9130B6fceB5E838F627eB4a8b42CecA",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x749346bde9130b6fceb5e838f627eb4a8b42ceca",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Hustlers Club",
+  "SYMBOL": "HCNFT",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hustlers-club",
+  "SHOW_BACKGROUND": true
+}
